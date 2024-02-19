@@ -1,1 +1,1 @@
-# Extension Chrome RacMen, inject script dans un page web
+# Extension Chrome RacMen inject script dans une page web
